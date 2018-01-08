@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloProject</string>
+    <string name="pencet_saya">Pencet Saya</string>
+    <string name="textview">TextView</string>
+    <string name="hello_world">Hello World</string>
+    <string name="pencet_nih">Pencet Nih!</string>
+    <string name="biodata_siswa">Biodata Siswa</string>
+    <string name="ahmad_khoirudin">Ahmad Khoirudin</string>
+    <string name="_081358141021">081358141021</string>
+    <string name="plandi_jombang">Plandi, Jombang</string>
+</resources>
