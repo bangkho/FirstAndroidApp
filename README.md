@@ -5,7 +5,7 @@ Screenshot Aplikasi
 
 1. 
 <br>
-![Alt text](https://github.com/bangkho/FirstAndroidApp/blob/master/Screenshot_1.png)
+![Alt text](https://user-images.githubusercontent.com/19210078/30011245-05add4c0-9160-11e7-8d22-4a7ad0bc4d5f.png)
 <br>
 2. 
 <br>
